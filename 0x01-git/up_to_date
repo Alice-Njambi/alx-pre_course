@@ -1,0 +1,4 @@
+The git command used to create a new file at the root of my directory is 'touch file_name'.
+The file name being 'up_to_date'.
+
+To get all changes made on the github userinterface website, I have used the git command 'pull' to pull the changes made in the website interfac, to my local machine or terminal.
